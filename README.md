@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # After Bootcamp
 
 ## dashboard
@@ -2221,4 +2220,3 @@ To resolve this:
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
->>>>>>> a9f89bf8db5efc214b376a882b07d029f56a5fd0
